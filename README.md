@@ -1,7 +1,7 @@
 # Product Gallery
 
 ![Product Gallery](Screenshot%20from%202025-11-10%2020-50-21.png)
-
+![Product Gallery](Screenshot%20from%202025-11-10%2020-55-54.png)
 A responsive 3-card product showcase with light/dark mode toggle and smooth animations built with vanilla HTML, CSS, and JavaScript.
 
 ## Features
