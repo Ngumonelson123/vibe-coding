@@ -1,6 +1,6 @@
 # Product Gallery
 
-![Product Gallery](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop)
+![Product Gallery](Screenshot from 2025-11-10 20-50-21.png)
 
 A responsive 3-card product showcase with light/dark mode toggle and smooth animations built with vanilla HTML, CSS, and JavaScript.
 
